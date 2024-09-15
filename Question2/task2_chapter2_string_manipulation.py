@@ -1,3 +1,5 @@
+#github_url: https://github.com/Bipuojha1/softwarenow_assignment2.git
+
 # Given string
 s = '56aAww1984sktr235270aYmn145ss785fsq31D0'
 

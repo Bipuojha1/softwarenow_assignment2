@@ -1,5 +1,7 @@
-# The given code that have errors
+#github_url: https://github.com/Bipuojha1/softwarenow_assignment2.git
 
+
+# The given code that have errors
 # def encrypt(text, key):
 #     encrypted_text =""
 #     for char in text:

@@ -1,3 +1,5 @@
+#github_url: https://github.com/Bipuojha1/softwarenow_assignment2.git
+
 from PIL import Image
 import time
 
